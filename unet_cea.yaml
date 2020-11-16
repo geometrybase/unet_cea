@@ -134,5 +134,5 @@ dependencies:
     - setproctitle==1.1.10
     - sklearn==0.0
     - toolz==0.9.0
-prefix: /home/zm/miniconda3/envs/python27
+prefix: /unet_cea
 
